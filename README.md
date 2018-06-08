@@ -1,1 +1,1 @@
-# triviaGame
+This is a classic trivia game where you have 5 questions to answer and 60 seconds to answer them. When you finish filling out the answers select the "done" key. This will end the game and bring you to a screen that tells you how many correct answers, incorrect answers, and unanswered questions you have. 
